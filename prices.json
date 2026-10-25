@@ -1,0 +1,38 @@
+{
+  "updated": "2026-10-25",
+  "fuel": {
+    "benzin": 76.30,
+    "motorin": 96.80,
+    "lpg": 41.20,
+    "region": "İstanbul Avrupa yakası"
+  },
+  "homeElectricity": 5.18,
+  "operators": [
+    { "name": "5Şarj", "ac": [8.99], "dc": [15.90] },
+    { "name": "Aksa Şarj", "ac": [9.90, 10.90], "dc": [11.99, 13.99] },
+    { "name": "Astor Şarj", "ac": [9.89], "dc": [13.99] },
+    { "name": "Beefull", "ac": [9.90], "dc": [13.99] },
+    { "name": "CV Charging", "ac": [9.99], "dc": [13.49] },
+    { "name": "Elaris", "ac": [8.49, 9.49], "dc": [10.00] },
+    { "name": "Enyakıt", "ac": [], "dc": [14.90] },
+    { "name": "Eşarj", "ac": [9.90], "dc": [9.90, 14.90] },
+    { "name": "EV-Bee", "ac": [9.95], "dc": [14.98] },
+    { "name": "GIO EV", "ac": [], "dc": [10.99, 13.73] },
+    { "name": "Lumicle", "ac": [9.99], "dc": [13.49] },
+    { "name": "Oncharge", "ac": [9.99], "dc": [13.50] },
+    { "name": "Oto-Jet", "ac": [10.99], "dc": [15.49] },
+    { "name": "Otopriz", "ac": [7.93], "dc": [9.73] },
+    { "name": "Power Şarj", "ac": [11.19], "dc": [13.99] },
+    { "name": "RST Charge Point", "ac": [5.90], "dc": [13.99] },
+    { "name": "Şarjon", "ac": [10.99], "dc": [11.99, 13.99] },
+    { "name": "Sharz", "ac": [9.49], "dc": [11.99] },
+    { "name": "Toger", "ac": [9.90], "dc": [13.39] },
+    { "name": "Tora Şarj", "ac": [9.99], "dc": [13.49] },
+    { "name": "Trugo", "ac": [9.95], "dc": [12.00, 14.98] },
+    { "name": "Tunçmatik Charge", "ac": [10.99], "dc": [15.49] },
+    { "name": "Volti", "ac": [9.99], "dc": [12.99] },
+    { "name": "Voltrun", "ac": [9.90], "dc": [12.90] },
+    { "name": "WAT Mobilite", "ac": [9.99, 10.99], "dc": [11.99, 14.49] },
+    { "name": "ZES", "ac": [10.99], "dc": [12.99, 16.49] }
+  ]
+}
