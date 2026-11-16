@@ -3,7 +3,7 @@
   "fuel": {
     "benzin": 71.20,
     "motorin": 95.20,
-    "lpg": 41.20,
+    "lpg": 50.70,
     "region": "İstanbul Avrupa yakası"
   },
   "homeElectricity": 5.18,
@@ -17,11 +17,11 @@
     { "name": "Enyakıt", "ac": [], "dc": [14.90] },
     { "name": "Eşarj", "ac": [9.90], "dc": [9.90, 14.90] },
     { "name": "EV-Bee", "ac": [9.95], "dc": [14.98] },
-    { "name": "GIO EV", "ac": [], "dc": [10.99, 13.73] },
+    { "name": "GIO EV", "ac": [], "dc": [11.99, 13.73] },
     { "name": "Lumicle", "ac": [9.99], "dc": [13.49] },
     { "name": "Oncharge", "ac": [9.99], "dc": [13.50] },
     { "name": "Oto-Jet", "ac": [10.99], "dc": [15.49] },
-    { "name": "Otopriz", "ac": [7.93], "dc": [9.73] },
+    { "name": "Otopriz", "ac": [7.92, 9.90], "dc": [9.73, 13.90] },
     { "name": "Power Şarj", "ac": [11.19], "dc": [13.99] },
     { "name": "RST Charge Point", "ac": [5.90], "dc": [13.99] },
     { "name": "Şarjon", "ac": [10.99], "dc": [11.99, 13.99] },
